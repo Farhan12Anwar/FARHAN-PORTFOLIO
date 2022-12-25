@@ -2241,7 +2241,8 @@ textarea.form-control {
 }
 
 footerimg img{
-  height:20px;
+  height:30px;
+  width:auto;
 }
 
 .section-networks a {
