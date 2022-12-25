@@ -2240,9 +2240,8 @@ textarea.form-control {
   max-width: 460px;
 }
 
-.container img{
-  height:10px;
-  width:auto;
+footerimg img{
+  height:20px;
 }
 
 .section-networks a {
