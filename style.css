@@ -773,12 +773,15 @@ html, body {
   text-transform: uppercase;
   font-weight: 700;
 }
-
 .main-service p {
+  font-weight: 1000;
+  position: relative;
+  bottom:15px;
   margin: 25px 0 0;
-  font-size: 12px;
+  font-size: 15px;
+  margin-left:15px;
+  justify-content: center;
 }
-
 @media only screen and (max-width: 1199px) {
   /* Section: Hello */
   .main-service {
@@ -789,14 +792,14 @@ html, body {
 @media only screen and (max-width: 991px) {
   /* Section: Hello */
   .big-rectangle {
-    height: 170px;
-    width: 170px;
+    height: 210px;
+    width: 210px;
   }
   .main-service {
     padding: 20px 0;
   }
   .main-service h3 {
-    font-size: 14px;
+    font-size: 20px;
   }
   .main-service.text-right {
     padding-right: 75px;
