@@ -38,6 +38,9 @@ html, body {
       font-size: 1.4em;
    }
 
+html, body img{
+width:100%;
+}
 
 /* 
  * Background colors 
